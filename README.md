@@ -1,2 +1,2 @@
 # NTU-Northspine-Canteen-Information-GUI
-Canteen Information displayed using Tkinter GUI
+Canteen Information displayed using Tkinter GUI(Team Project)
